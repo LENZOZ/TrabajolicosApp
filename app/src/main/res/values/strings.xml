@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Trabajolicos</string>
+    <string name="numero">+569xxxxxxxx</string>
+    <string name="btnsiguiente">Siguiente</string>
+    <string name="btnacepto">Acepto</string>
+    <string name="terminosaceptar">Para continuar por favor acepta nuestros</string>
+    <string name="ingresacodigo">Ingresa el código que enviamos a tu teléfono</string>
+    <string name="reenviarcodigo">Reenviar código</string>
+    <string name="termycond">Términos y condiciones.</string>
+    <string name="ingresadatos">Ingresa tus datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo@xxx.cl</string>
+
+    <string name="menuInicio">Inicio</string>
+    <string name="menuPedidos">Mis Pedidos</string>
+    <string name="menuAyuda">Ayuda en Linea</string>
+    <string name="menuinicio">Inicio</string>
+    <string name="menuTrabajolizate">Trabajolízate</string>
+    <string name="nombreUsuario">Nombre Apellido</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

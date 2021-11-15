@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op1"
+        android:fontFamily="@font/mbold"
+        android:icon="@drawable/ic_inicio"
+        android:textSize="18sp"
+        android:title="@string/menuInicio" />
+    <item
+        android:id="@+id/op2"
+        android:fontFamily="@font/mbold"
+        android:icon="@drawable/ic_pedidos"
+        android:textSize="18sp"
+        android:title="@string/menuPedidos" />
+    <item
+        android:id="@+id/op3"
+        android:fontFamily="@font/mbold"
+        android:icon="@drawable/ic_ayuda"
+        android:textSize="18sp"
+        android:title="@string/menuAyuda" />
+    <item
+        android:id="@+id/op4"
+        android:fontFamily="@font/mbold"
+        android:icon="@drawable/ic_trabajolizate"
+        android:textSize="18sp"
+        android:title="@string/menuTrabajolizate" />
+</menu>
